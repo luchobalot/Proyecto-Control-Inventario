@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositorio\\PersonaRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorio\\PersonaRepositorio.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositorio\\PersonaRepositorio.cs",
-              "RelativeToolTip": "Repositorio\\PersonaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:30:13.138Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -69,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T13:12:25.98Z",
               "EditorCaption": ""
@@ -84,8 +71,7 @@
               "RelativeToolTip": "ControlMapper\\Profiles\\PersonaProfile.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:07:48.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:07:48.906Z"
             },
             {
               "$type": "Document",
@@ -97,8 +83,7 @@
               "RelativeToolTip": "Models\\Dtos\\DTOPersona\\PersonaListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:45:51.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T12:45:51.913Z"
             },
             {
               "$type": "Document",
@@ -110,16 +95,7 @@
               "RelativeToolTip": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:45:35.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-07-15T12:45:35.422Z"
             },
             {
               "$type": "Document",
@@ -131,8 +107,27 @@
               "RelativeToolTip": "Repositorio\\OficinaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:30:26.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:30:26.821Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositorio\\PersonaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\PersonaRepositorio.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositorio\\PersonaRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\PersonaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:30:13.138Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:45:21.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T12:45:21.184Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Models\\Dtos\\DTOPersona\\PersonaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:45:04.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T12:45:04.663Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "Models\\Persona.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T11:35:58.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T11:35:58.258Z"
             }
           ]
         }
