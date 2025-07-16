@@ -19,9 +19,11 @@ builder.Services.AddAutoMapper(typeof(PersonaProfile));
 
 // Registrar Repositorios
 builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
+builder.Services.AddScoped<IOficinaRepository, OficinaRepository>();
 
 // Registrar Servicios
 builder.Services.AddScoped<IPersonaService, PersonaService>();
+builder.Services.AddScoped<IOficinaService, OficinaService>();
 
 // Agregar servicios de controladores
 builder.Services.AddControllers();
