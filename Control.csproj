@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <Folder Include="Models\Dtos\DTOOficina\" />
   </ItemGroup>
 
 </Project>

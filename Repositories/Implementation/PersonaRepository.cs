@@ -27,6 +27,7 @@ namespace Control.Repositories.Implementations
         public async Task<Persona?> GetByIdSimpleAsync(int id)
         {
             return await _context.Personas
+                .AsNoTracking()
                 .FirstOrDefaultAsync(p => p.IdPersona == id);
         }
 
@@ -58,10 +59,16 @@ namespace Control.Repositories.Implementations
 
         public async Task<Persona> UpdateAsync(Persona persona)
         {
-            _context.Personas.Update(persona);
-            await _context.SaveChangesAsync();
+            var existingPersona = await _context.Personas.FindAsync(persona.IdPersona);
+            if (existingPersona != null)
+            {
+                _context.Entry(existingPersona).CurrentValues.SetValues(persona);
+                await _context.SaveChangesAsync();
+                return await GetByIdAsync(persona.IdPersona) ?? existingPersona;
+            }
 
-            // Recargar la persona con la oficina para retornar completa
+            _context.Personas.Add(persona);
+            await _context.SaveChangesAsync();
             return await GetByIdAsync(persona.IdPersona) ?? persona;
         }
 

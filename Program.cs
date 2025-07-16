@@ -3,6 +3,8 @@ using Control.ControlMapper.Profiles;
 using Microsoft.EntityFrameworkCore;
 using Control.Repositories.Implementations;
 using Control.Repositories.Interfaces;
+using Control.Services.Implementations;
+using Control.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

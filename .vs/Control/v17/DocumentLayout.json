@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\implementation\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\implementation\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\services\\implementations\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:services\\implementations\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtopersona\\updatepersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtopersona\\updatepersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\services\\interfaces\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:services\\interfaces\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\interfaces\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,20 +42,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdatePersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:44:58.943Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreatePersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:15:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAgwOMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:59:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Interfaces\\IPersonaService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPersonaService.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Interfaces\\IPersonaService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPersonaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:58:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\PersonaService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PersonaService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA9wNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:57:46.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowGYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:52:38.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:52:38.511Z"
             },
             {
               "$type": "Document",
@@ -45,14 +135,14 @@
               "RelativeDocumentMoniker": "Repositories\\Implementation\\PersonaRepository.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\PersonaRepository.cs",
               "RelativeToolTip": "Repositories\\Implementation\\PersonaRepository.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAuwOwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T11:43:25.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IPersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPersonaRepository.cs",
@@ -60,8 +150,7 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IPersonaRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:37:41.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:37:41.884Z"
             }
           ]
         }
