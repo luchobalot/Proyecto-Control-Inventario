@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <Folder Include="Services\" />
-    <Folder Include="Repositorio\IRepositorio\" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,8 @@
 using Control.Data;
 using Control.ControlMapper.Profiles;
 using Microsoft.EntityFrameworkCore;
+using Control.Repositories.Implementations;
+using Control.Repositories.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 // Configurar AutoMapper
 builder.Services.AddAutoMapper(typeof(PersonaProfile));
+
+// Registrar Repositorios
+builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
+
+// Registrar Servicios
+builder.Services.AddScoped<IPersonaService, PersonaService>();
 
 // Agregar servicios de controladores
 builder.Services.AddControllers();
