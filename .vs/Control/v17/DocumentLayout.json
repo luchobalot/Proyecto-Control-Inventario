@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\implementation\\oficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\implementation\\oficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\interfaces\\ioficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\interfaces\\ioficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\oficinalistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\oficinalistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\services\\implementations\\oficinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:services\\implementations\\oficinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\updateoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\updateoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\createoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\createoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -55,30 +47,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OficinaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\OficinaRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\OficinaRepository.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\OficinaRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\OficinaRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA3wCwBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T11:42:43.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IOficinaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IOficinaRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IOficinaRepository.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IOficinaRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IOficinaRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAxwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T11:42:25.183Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -86,51 +56,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "OficinaService.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\OficinaService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\OficinaService.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\OficinaService.cs",
+              "RelativeToolTip": "Services\\Implementations\\OficinaService.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAYwD4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:54:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OficinaDTO.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
               "RelativeToolTip": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T15:24:15.674Z"
+              "WhenOpened": "2025-07-17T12:30:04.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OficinaListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
-              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "OficinaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
+              "RelativeDocumentMoniker": "ControlMapper\\Profiles\\OficinaProfile.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
+              "RelativeToolTip": "ControlMapper\\Profiles\\OficinaProfile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T15:24:39.57Z"
+              "WhenOpened": "2025-07-17T12:27:49.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateOficinaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
-              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OficinaController.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OficinaController.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
+              "RelativeToolTip": "Controllers\\OficinaController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAYwLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T15:23:56.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateOficinaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
-              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T15:23:39.527Z"
+              "WhenOpened": "2025-07-17T12:22:01.323Z",
+              "EditorCaption": ""
             }
           ]
         }
