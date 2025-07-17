@@ -1,6 +1,18 @@
-﻿namespace Control.Models.Dtos.DTOOficina
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+
+namespace Control.Models.Dtos.DTOOficina
 {
     public class CreateOficinaDTO
     {
+        [Required(ErrorMessage = "El número de oficina es requerido")]
+        [Range(1, 150, ErrorMessage = "El número de oficina debe estar entre 1 y 150")]
+        [DefaultValue(1)]
+        public int Numero { get; set; }
+
+        [StringLength(200, ErrorMessage = "El departamento no puede exceder los 200 caracteres")]
+        [RegularExpression(@"^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s\-\.]+$", ErrorMessage = "El departamento solo puede contener letras, espacios, guiones y puntos")]
+        [DefaultValue("Departamento de Sistemas")]
+        public string? Departamento { get; set; }
     }
 }

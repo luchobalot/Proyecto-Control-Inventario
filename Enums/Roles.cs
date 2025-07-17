@@ -4,6 +4,7 @@
     {
         Usuario = 1,
         Administrador = 2,
-        SuperAdmin = 3
+        SuperAdmin = 3,
+        SinUsuario = 4,
     }
 }

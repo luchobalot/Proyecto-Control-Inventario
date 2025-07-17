@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\implementation\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\implementation\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\implementation\\oficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\implementation\\oficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\repositories\\interfaces\\ioficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:repositories\\interfaces\\ioficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\oficinalistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\oficinalistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\updateoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\updateoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\createoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\createoficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtopersona\\createpersonadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\services\\implementations\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\services\\interfaces\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,32 +66,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdatePersonaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
-              "RelativeToolTip": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "OficinaController.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OficinaController.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
+              "RelativeToolTip": "Controllers\\OficinaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:44:58.943Z",
+              "WhenOpened": "2025-07-16T15:26:58.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "OficinaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\OficinaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\OficinaRepository.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\OficinaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\OficinaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:26:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOficinaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IOficinaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IOficinaRepository.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IOficinaRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IOficinaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:26:29.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OficinaListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\OficinaListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:24:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OficinaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:24:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateOficinaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\UpdateOficinaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:23:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOficinaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOOficina\\CreateOficinaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:23:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CreatePersonaDTO.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\DTOPersona\\CreatePersonaDTO.cs",
@@ -80,7 +174,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:52:38.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
@@ -92,7 +199,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "UpdatePersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOPersona\\UpdatePersonaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:44:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IPersonaService.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Interfaces\\IPersonaService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IPersonaService.cs",
@@ -104,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PersonaService.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\PersonaService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\PersonaService.cs",
@@ -112,37 +231,11 @@
               "RelativeToolTip": "Services\\Implementations\\PersonaService.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAA9wNkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:57:46.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:57:46.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAGgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:52:38.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\PersonaRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\PersonaRepository.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Implementation\\PersonaRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\PersonaRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:43:25.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IPersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Repositories\\Interfaces\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPersonaRepository.cs",
@@ -151,6 +244,10 @@
               "ViewState": "AgIAACMAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T11:37:41.884Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
