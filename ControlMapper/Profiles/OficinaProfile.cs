@@ -50,12 +50,12 @@ namespace Control.ControlMapper.Profiles
                 .ForMember(dest => dest.JerarquiaDescripcion, opt => opt.MapFrom(src => src.Jerarquia.ToString()))
                 .ForMember(dest => dest.MaterialesAsignados, opt => opt.Ignore()); // Se calculará en el servicio
 
-            // Mapeo de Material a MaterialOficinaDTO (para mostrar en OficinaDTO)
-            CreateMap<Material, MaterialOficinaDTO>()
-                .ForMember(dest => dest.TipoDescripcion, opt => opt.MapFrom(src => src.Tipo.ToString()))
-                .ForMember(dest => dest.EstadoDescripcion, opt => opt.MapFrom(src => src.Estado.ToString()))
-                .ForMember(dest => dest.PersonaAsignada, opt => opt.MapFrom(src =>
-                    src.PersonaAsignada != null ? $"{src.PersonaAsignada.Nombre} {src.PersonaAsignada.Apellido}" : null));
+            // Mapeo de Material a MaterialOficinaDTO (para mostrar en OficinaDTO) -- CORREGIR
+            //CreateMap<Material, MaterialOficinaDTO>()
+            //    .ForMember(dest => dest.TipoDescripcion, opt => opt.MapFrom(src => src.Tipo.ToString()))
+            //    .ForMember(dest => dest.EstadoDescripcion, opt => opt.MapFrom(src => src.Estado.ToString()))
+            //    .ForMember(dest => dest.PersonaAsignada, opt => opt.MapFrom(src =>
+            //        src.PersonaAsignada != null ? $"{src.PersonaAsignada.Nombre} {src.PersonaAsignada.Apellido}" : null));
         }
     }
 }

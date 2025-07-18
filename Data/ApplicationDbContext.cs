@@ -14,7 +14,7 @@ namespace Control.Data
         public DbSet<Oficina> Oficinas { get; set; }
         public DbSet<Material> Materiales { get; set; }
         public DbSet<AsignacionHistorial> AsignacionHistorial { get; set; }
-        public DbSet<CategoriaMaterial> CategorisasMaterial { get; set; }
+        public DbSet<CategoriaMaterial> CategoriasMaterial { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

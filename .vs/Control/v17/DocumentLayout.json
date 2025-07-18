@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Migrations\\20250718141618_NuevaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250718141618_NuevaMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtocategorias\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtocategorias\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtomateriales\\materiallistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtomateriales\\materiallistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtomateriales\\updatematerialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtomateriales\\updatematerialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtomateriales\\materialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtomateriales\\materialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtomateriales\\creatematerialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtomateriales\\creatematerialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\enums\\estadomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:enums\\estadomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\categoriamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\categoriamaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\tipomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\tipomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:models\\dtos\\dtooficina\\oficinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:controlmapper\\profiles\\oficinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|c:\\users\\siag28\\desktop\\control_inv\\control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956A03A-9ED7-4770-B47B-D6C9DF95EDE0}|Control.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +78,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T11:52:38.511Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250718141618_NuevaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Migrations\\20250718141618_NuevaMigracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250718141618_NuevaMigracion.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Migrations\\20250718141618_NuevaMigracion.cs",
+              "RelativeToolTip": "Migrations\\20250718141618_NuevaMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:16:19.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T14:04:12.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOCategorias\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOCategorias\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOCategorias\\CategoriaDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOCategorias\\CategoriaDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:21:51.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMaterialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\CreateMaterialDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOMateriales\\CreateMaterialDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\CreateMaterialDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOMateriales\\CreateMaterialDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:47:55.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:39:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EstadoMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Enums\\EstadoMaterial.cs",
+              "RelativeDocumentMoniker": "Enums\\EstadoMaterial.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Enums\\EstadoMaterial.cs",
+              "RelativeToolTip": "Enums\\EstadoMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:32:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "Models\\Material.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Material.cs",
+              "RelativeToolTip": "Models\\Material.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wDcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:30:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\TipoMaterial.cs",
+              "RelativeDocumentMoniker": "Models\\TipoMaterial.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\TipoMaterial.cs",
+              "RelativeToolTip": "Models\\TipoMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:17:53.258Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OficinaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
+              "RelativeDocumentMoniker": "ControlMapper\\Profiles\\OficinaProfile.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
+              "RelativeToolTip": "ControlMapper\\Profiles\\OficinaProfile.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:27:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMaterialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\UpdateMaterialDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOMateriales\\UpdateMaterialDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\UpdateMaterialDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOMateriales\\UpdateMaterialDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:50:32.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaterialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\MaterialDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOMateriales\\MaterialDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\MaterialDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOMateriales\\MaterialDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:51:07.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\MaterialListDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\DTOMateriales\\MaterialListDTO.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOMateriales\\MaterialListDTO.cs",
+              "RelativeToolTip": "Models\\Dtos\\DTOMateriales\\MaterialListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:13:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\CategoriaMaterial.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaMaterial.cs",
+              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\CategoriaMaterial.cs",
+              "RelativeToolTip": "Models\\CategoriaMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:14:40.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "OficinaService.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Services\\Implementations\\OficinaService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\OficinaService.cs",
@@ -64,12 +273,11 @@
               "RelativeToolTip": "Services\\Implementations\\OficinaService.cs",
               "ViewState": "AgIAABcBAAAAAAAAAAAYwD4BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:54:55.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:54:55.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "OficinaDTO.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
               "RelativeDocumentMoniker": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
@@ -77,34 +285,19 @@
               "RelativeToolTip": "Models\\Dtos\\DTOOficina\\OficinaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:30:04.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:30:04.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OficinaProfile.cs",
-              "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
-              "RelativeDocumentMoniker": "ControlMapper\\Profiles\\OficinaProfile.cs",
-              "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\ControlMapper\\Profiles\\OficinaProfile.cs",
-              "RelativeToolTip": "ControlMapper\\Profiles\\OficinaProfile.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:27:49.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "OficinaController.cs",
               "DocumentMoniker": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
               "RelativeDocumentMoniker": "Controllers\\OficinaController.cs",
               "ToolTip": "C:\\Users\\SIAG28\\Desktop\\Control_Inv\\Control\\Controllers\\OficinaController.cs",
               "RelativeToolTip": "Controllers\\OficinaController.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAYwLwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHIAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:22:01.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:22:01.323Z"
             }
           ]
         }

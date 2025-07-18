@@ -11,8 +11,13 @@ var builder = WebApplication.CreateBuilder(args);
 // ==================== CONFIGURACIÓN DE SERVICIOS ====================
 
 // Configurar Entity Framework con SQL Server
+
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSQL")));
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSQL")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Configurar AutoMapper
 builder.Services.AddAutoMapper(typeof(PersonaProfile));
