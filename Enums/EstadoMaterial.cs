@@ -4,7 +4,8 @@
     {
         Disponible = 1,
         Asignado = 2,
-        EnReparacion = 3,
-        DadoDeBaja = 4,
+        EnMantenimiento = 3,
+        SinServicio = 4,
+        Extraviado = 5
     }
 }

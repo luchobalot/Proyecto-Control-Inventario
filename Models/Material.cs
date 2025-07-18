@@ -8,16 +8,10 @@ namespace Control.Models
         [Key]
         public int IdMaterial { get; set; }
 
+        // DATOS BÁSICOS
         [Required]
         [StringLength(100)]
         public string Nombre { get; set; }
-
-        [Required]
-        [StringLength(50)]
-        public string Codigo { get; set; } // Código único del equipo
-
-        [StringLength(100)]
-        public string? Marca { get; set; }
 
         [StringLength(100)]
         public string? Modelo { get; set; }
@@ -25,28 +19,49 @@ namespace Control.Models
         [StringLength(100)]
         public string? NumeroSerie { get; set; }
 
-        [Required]
-        public TipoMaterial Tipo { get; set; }
+        [StringLength(500)]
+        public string? Descripcion { get; set; }
 
+        // RELACIÓN CON CATEGORÍA (directa)
+        [Required]
+        public int CategoriaId { get; set; }
+        public virtual CategoriaMaterial Categoria { get; set; }
+
+        // ESTADO ACTUAL
         [Required]
         public EstadoMaterial Estado { get; set; }
 
-        public DateTime FechaAdquisicion { get; set; }
-        public decimal? Precio { get; set; }
+        // FECHAS IMPORTANTES
+        public DateTime FechaRegistroSistema { get; set; } = DateTime.Now; // Cuando se registró en el sistema
+        public DateTime? FechaAsignacion { get; set; } // Cuando se asignó a una persona (nullable)
 
-        // Asignación actual
+        // ASIGNACIÓN ACTUAL
         public int? PersonaAsignadaId { get; set; }
         public virtual Persona? PersonaAsignada { get; set; }
 
-        // Oficina actual
+        // UBICACIÓN ACTUAL
         public int OficinaId { get; set; }
         public virtual Oficina Oficina { get; set; }
 
-        // Historial completo
+        // CAMPOS ADICIONALES
+        [StringLength(50)]
+        public string? Marca { get; set; } // "Dell", "HP", "Samsung", "IKEA"
+
+        [StringLength(500)]
+        public string? Observaciones { get; set; } // Notas adicionales
+
+        // HISTORIAL DE ASIGNACIONES
         public virtual ICollection<AsignacionHistorial> Historial { get; set; } = new List<AsignacionHistorial>();
 
-        // Auditoría
-        public DateTime FechaCreacion { get; set; } = DateTime.Now;
+        // AUDITORÍA
         public DateTime? FechaModificacion { get; set; }
+        public int UsuarioCreacionId { get; set; }
+        public int? UsuarioModificacionId { get; set; }
+
+        // PROPIEDADES CALCULADAS
+        public string NombreCompleto => $"{Categoria?.Nombre} - {Nombre}";
+        public bool EstaAsignado => PersonaAsignadaId.HasValue;
+        public int DiasDesdeRegistro => (DateTime.Now - FechaRegistroSistema).Days;
+        public int? DiasAsignado => FechaAsignacion.HasValue ? (DateTime.Now - FechaAsignacion.Value).Days : null;
     }
 }
